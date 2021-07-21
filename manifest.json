@@ -1,41 +1,41 @@
 {
- "name": "App",
- "icons": [
-  {
-   "src": "\/android-icon-36x36.png",
-   "sizes": "36x36",
-   "type": "image\/png",
-   "density": "0.75"
-  },
-  {
-   "src": "\/android-icon-48x48.png",
-   "sizes": "48x48",
-   "type": "image\/png",
-   "density": "1.0"
-  },
-  {
-   "src": "\/android-icon-72x72.png",
-   "sizes": "72x72",
-   "type": "image\/png",
-   "density": "1.5"
-  },
-  {
-   "src": "\/android-icon-96x96.png",
-   "sizes": "96x96",
-   "type": "image\/png",
-   "density": "2.0"
-  },
-  {
-   "src": "\/android-icon-144x144.png",
-   "sizes": "144x144",
-   "type": "image\/png",
-   "density": "3.0"
-  },
-  {
-   "src": "\/android-icon-192x192.png",
-   "sizes": "192x192",
-   "type": "image\/png",
-   "density": "4.0"
-  }
- ]
+"name": "App",
+"icons": [
+{
+"src": "https://1.bp.blogspot.com/-FO2Fs0opGs4/YPfXKLngnWI/AAAAAAAABFs/wsOfF48mw3s1uxoNJOAFLgl9AQUkDDFBQCLcBGAsYHQ/s36/android-icon-36x36.png",
+"sizes": "36x36",
+"type": "image\/png",
+"density": "0.75"
+},
+{
+"src": "https://1.bp.blogspot.com/-CiYO0NfZ0cg/YPfXKgwx2qI/AAAAAAAABFw/9wKXH1598Yg-g0CuJpa-P-qmf05JRl-SACLcBGAsYHQ/s48/android-icon-48x48.png",
+"sizes": "48x48",
+"type": "image\/png",
+"density": "1.0"
+},
+{
+"src": "https://1.bp.blogspot.com/-3iruLHlOfOo/YPfXK1xa56I/AAAAAAAABF0/7wZoT3tcR_Mi29RUxLomIcjShZ43ManrgCLcBGAsYHQ/s72/android-icon-72x72.png",
+"sizes": "72x72",
+"type": "image\/png",
+"density": "1.5"
+},
+{
+"src": "https://1.bp.blogspot.com/-RrXqv280KUE/YPfXK2zzD-I/AAAAAAAABF4/1ayUegoOsz4d2CZA2pC3B0uerhOgRaVHwCLcBGAsYHQ/s96/android-icon-96x96.png",
+"sizes": "96x96",
+"type": "image\/png",
+"density": "2.0"
+},
+{
+"src": "https://1.bp.blogspot.com/-B0Y3eRQQ6iM/YPfXJwEA_PI/AAAAAAAABFk/1UNdXSoezm4jeIReyHM2sZ5PSIjxhqkrwCLcBGAsYHQ/s144/android-icon-144x144.png",
+"sizes": "144x144",
+"type": "image\/png",
+"density": "3.0"
+},
+{
+"src": "https://1.bp.blogspot.com/-Id2VA-wkQ2w/YPfXKLm43_I/AAAAAAAABFo/r2Hv9vT_1MgCRN0_fdNCRrXn8HE8peg1gCLcBGAsYHQ/s192/android-icon-192x192.png",
+"sizes": "192x192",
+"type": "image\/png",
+"density": "4.0"
+}
+]
 }
